@@ -24,5 +24,9 @@ This folder contains scripts I used to get the Artisan roaster scope coffee brew
 6.  At this point you may have to change the axis values in Artisan so that you can see your temp (default cutoff is 100*)
 		*Config->Axes  Change the min temperature axis to min 50 
 7.  Hit Start and  you should see data coming from your Arduino.  I huffed some warm air on the sensor to make it change/test.
+http://www.instructables.com/id/Tutorial-Using-HC06-Bluetooth-to-Serial-Wireless-U/
+8.  The best way to work with bi-directional Bluetooth communicaton was with an android phone and the "Serial Bluetooth Terminal" by Kai Morich
+9.  I was able to connect in Win 10 but the amount of work it took to connect each time didn't seem worth it.  If you are interested in going this route I'd try this tutorial: http://www.collideabq.com/2016/04/28/bluetooth-serial-connection-with-windows-10/
+
 		
 		
